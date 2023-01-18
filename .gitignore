@@ -1,0 +1,14 @@
+.git/
+.DS_Store
+*.sh
+__pycache__/
+test.py
+Model.ipynb
+*.log
+.ipynb_checkpoints/
+data/
+files/
+download/
+!run_core.sh
+test.py
+*.zip
